@@ -9,7 +9,7 @@ suhu naik melewati 10 derajat (histeresis 2 derajat, supaya MOSFET
 tidak hidup-mati terus).
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/QdIHKjWO3qo
 
 ## Komponen
 
